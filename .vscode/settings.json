@@ -1,6 +1,7 @@
 {
     "rust-analyzer.linkedProjects": [
         "${workspaceFolder}/1/hello-world/Cargo.toml",
-        "${workspaceFolder}/2/guessing_game/Cargo.toml"
+        "${workspaceFolder}/2/guessing_game/Cargo.toml",
+        "${workspaceFolder}/3/func/Cargo.toml"
     ]
 }
